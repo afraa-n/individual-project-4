@@ -1,9 +1,8 @@
-# IDS_706-Data_Engineering_Systems
-## Individual Project 4 -  Auto Scaling Flask App Using Any Platform As a Service
+## Auto Scaling Flask App Using Any Platform As a Service
 
 ### PURPOSE
 
-This project is for a data engineering course (Individual-Project 4). The purpose of this project is to develop a data pipeline using Databricks. The primary goal is to create an efficient and functional pipeline that includes at least one data source and one data sink.
+The purpose of this project is to develop a data pipeline using Databricks. The primary goal is to create an efficient and functional pipeline that includes at least one data source and one data sink.
 
 ***
 
